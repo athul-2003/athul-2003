@@ -48,13 +48,15 @@ If it blends creativity, intelligence, and technology, I’m probably all over i
 
 ## 🌟 Featured Projects
 
-- 📝 [Resume ATS System](https://github.com/athul-2003/resume-ats-system)  
-  *Automates resume screening using AI for smarter hiring.*
+- 📝 [Resume ATS System](https://github.com/athul-2003/Resume-ATS-System)  
+  *ResumeATS is an AI application that allows users to upload PDF resumes, extract text from them, and analyze the extracted text using the Google Gemini API. The application is built using Python, Streamlit, and PyPDF2, and it leverages the power of Google Gemini for text analysis.*
 
-- 🤖 [RAG Chatbot Project](https://github.com/athul-2003/rag-chatbot-project)  
-  *A Retrieval-Augmented Generation chatbot for dynamic, knowledge-driven conversations.*
+- 🤖 RAG Chatbot Projects  
+  &nbsp;&nbsp;&nbsp;• [Medi-AI Chatbot](https://github.com/athul-2003/Medi-AI-Chatbot)  
+  &nbsp;&nbsp;&nbsp;• [Simple RAG Chatbot](https://github.com/athul-2003/Simple_RAG_Chatbot)  
+  *Retrieval-Augmented Generation chatbots for dynamic, knowledge-driven conversations.*
 
-- 📚 [Imagery Story Teller](https://github.com/athul-2003/imagery-story-teller)  
+- 📚 [Imagery Story Teller](https://github.com/athul-2003/Imagery-Storyteller)  
   *Bringing stories to life with the power of images and AI.*
 
 ---
